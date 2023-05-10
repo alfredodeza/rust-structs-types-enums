@@ -31,6 +31,8 @@ fn main() {
         region: WineRegions::Tuscany,
     };
 
-    println!("Wine 1: {} from {:?}", wine1.name, wine1.region);
-    println!("Wine 2: {} from {:?}", wine2.name, wine2.region);
+    // println!("Wine 1: {} from {:?}", wine1.name, wine1.region);
+    // println!("Wine 2: {} from {:?}", wine2.name, wine2.region);
+    supported_regions(wine1.region);
+    supported_regions(WineRegions::Rioja);
 }

@@ -10,26 +10,26 @@ This week has several examples located in the [./examples](./examples) directory
 This repository is *Codespaces ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
 
 ### Lesson 1: Using structured data
-- [Defining structs](./examples/1-/)
-- [Creating struct instances](./examples/2-/)
-- [Associated functions and constructors](./examples/3-/)
-- [Extending with methods](./examples/4-/)
-- [Using the debug attribute](./examples/5-/)
+- [Defining structs](./examples/1-defining-structs/)
+- [Creating struct instances](./examples/2-creating-structs/)
+- [Associated functions and constructors](./examples/3-associated-functions/)
+- [Extending with methods](./examples/4-methods/)
+- [Using the debug attribute](./examples/5-more-structs/)
 
 ### Lesson 2: Exploring strings and vectors
 - [Understanding String and str](./examples/6-strings/)
 - [Getting started with Rust string manipulation](./examples/7-mut-string/)
-- [Basics of Vectors](./examples/8-/)
-- [Retrieving values from Vectors](./examples/9-/)
-- [Adding elements to Vectors](./examples/10-/)
+- [Basics of Vectors](./examples/8-vectors/)
+- [Retrieving values from Vectors](./examples/9-vector-values/)
+- [Adding elements to Vectors](./examples/10-vector-elements/)
 
 ### Lesson 3: Working with Enum and variants
-- [Defining an Enum](./examples/11-/)
-- [Using Enum as a Type](./examples/12-/)
-- [The Option Enum](./examples/13-/)
-- [Match and Enums](./examples/14-/)
-- [Using Vectors with Enums](./examples/15-/)
-- [Exhaustive matches](./examples/16-/)
+- [Defining an Enum](./examples/11-enums/)
+- [Using Enum as a Type](./examples/12-enum-types/)
+- [The Option Enum](./examples/13-option-enum/)
+- [Match and Enums](./examples/14-match-enums/)
+- [Using Vectors with Enums](./examples/15-enums-vectors/)
+- [Exhaustive matches](./examples/16-exhaustive/)
 
 ## Resources
 
