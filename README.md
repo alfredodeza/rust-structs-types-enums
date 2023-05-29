@@ -4,6 +4,13 @@ _Rust Bootcamp week 3: Structs, Types, and Enums_
 
 This week, you will learn how to create structs, types, and enums as well defining new types and extending them. You will use types like `String` and manipulate other data structures like vectors and hash maps. `Enum`s in Rust are similar to `enum`s in other languages, but they have some interesting features that make them more powerful like the `Option` and `Result` types that can be used to handle errors with `match` expressions.
 
+This is week 3 of the Rust Bootcamp. There are 4 weeks in total:
+
+- [week 1](https://github.com/alfredodeza/rust-setup) 
+- [week 2](https://github.com/alfredodeza/rust-fundamentals) 
+- [week 3](https://github.com/alfredodeza/rust-structs-types-enums/) 👈 You are here!
+- [week 4](https://github.com/alfredodeza/applied-rust)
+
 ## Contents
 This week has several examples located in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
