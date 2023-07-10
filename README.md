@@ -42,6 +42,9 @@ This repository is *Codespaces ready*, and it is set as a template repository. Y
 - [Using Vectors with Enums](./examples/15-enums-vectors/)
 - [Exhaustive matches](./examples/16-exhaustive/)
 
+### Lesson 4: Practice Lab
+Use the included [practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
+
 ## Resources
 
 - [Rust Book](https://doc.rust-lang.org/book/)
