@@ -38,6 +38,16 @@ fn main() {
 }
 ```
 
+## Hints:
+
+This exercise is much more harder than the other weeks and you'll be applying more concepts and patterns. Here are some things to consider if you are getting stuck:
+
+- You'll need to split the input string to capture the number and the size. You can use the size (e.g. "kb") to match on how to process that number. 
+- The `struct` will need to have the derive debug attribute to print it out
+- Use `impl` to extend the struct to do the work on the struct for you
+
+Use the example code to assist you with some of the match statements and transformations needed
+
 ## Concepts Covered:
 
 * Introduction to Rust: You will familiarize themselves with the provided source code and its components, including enums and structs.
