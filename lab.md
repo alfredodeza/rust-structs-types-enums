@@ -22,7 +22,7 @@ The end result will be a GitHub repository containing the complete code for the 
 
 ## Steps:
 
-1. Create a new repository in your account for your Rust project
+1. Create a new repository in your account for your Rust project. Use the [Rust template repository](https://github.com/alfredodeza/rust-template) to quickly generate one for your own account. Use this link to [create it in one step](https://github.com/alfredodeza/rust-template/generate).
 1. Use the [example code](https://github.com/alfredodeza/rust-structs-types-enums/blob/main/examples/14-match-enums/match-enum/src/main.rs) as a starting point.
 1. Add the ability to pass in any file size like "300 kb" or "12 mb"  to avoid hard-coding the sizes in the program.  Use the [Rust docs ](https://doc.rust-lang.org/rust-by-example/std_misc/arg.html) or this sample code to get an idea on how to get the first argument in the console:
 
