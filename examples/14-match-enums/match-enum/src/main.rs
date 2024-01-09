@@ -15,9 +15,9 @@ fn format_size(size: u64) -> String {
 
     match filesize {
         FileSize::Bytes(bytes) => format!("{} bytes", bytes),
-        FileSize::Kilobytes(kb) => format!("{:.2} KB", kb as f64 / 1000.0),
-        FileSize::Megabytes(mb) => format!("{:.2} MB", mb as f64 / 1000.0),
-        FileSize::Gigabytes(gb) => format!("{:.2} GB", gb as f64 / 1000.0),
+        FileSize::Kilobytes(kb) => format!("{:.2} KB", kb as f64),
+        FileSize::Megabytes(mb) => format!("{:.2} MB", mb as f64),
+        FileSize::Gigabytes(gb) => format!("{:.2} GB", gb as f64),
     }
 }
 
