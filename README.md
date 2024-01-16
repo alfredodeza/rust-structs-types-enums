@@ -1,3 +1,7 @@
+# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/58m "Coursera Specialization")
+
+This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
+
 # Rust Structs, Types, and Enums
 
 _Rust Bootcamp week 3: Structs, Types, and Enums_
