@@ -1,0 +1,22 @@
+{
+    "rust-analyzer.linkedProjects": [
+        
+        "./examples/1-defining-structs/defining/Cargo.toml" ,
+        "./examples/2-creating-structs/creating/Cargo.toml" ,
+        "./examples/3-associated-functions/associated/Cargo.toml",
+        "./examples/4-methods/methods/Cargo.toml",
+        "./examples/5-more-structs/more/Cargo.toml",
+        "./examples/6-strings/strings/Cargo.toml",
+        "./examples/7-mut-string/manipulating/Cargo.toml",
+        "./examples/8-vectors/vectors/Cargo.toml",
+        "./examples/9-vector-values/values/Cargo.toml",
+        "./examples/10-vector-elements/elements/Cargo.toml",
+        "./examples/11-enums/enums/Cargo.toml",
+        "./examples/12-enum-types/enum-types/Cargo.toml",
+        "./examples/13-option-enum/option-enum/Cargo.toml",
+        "./examples/14-match-enums/match-enum/Cargo.toml",
+        "./examples/15-enums-vectors/enums-vectors/Cargo.toml",
+        "./examples/16-exhaustive/exhaustive/Cargo.toml"
+
+    ]
+}
